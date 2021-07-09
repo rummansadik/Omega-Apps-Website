@@ -1,0 +1,866 @@
+*{font-family: myFirstFont;}
+.logo{
+    width: 70px;
+}
+.nav-logo{
+    position: relative;
+    top: -60px;
+    left: 80%;
+}
+.my-nav{
+    position: relative;
+    left: 50%;
+    display: inline-block;
+    font-size: 18px;
+}
+.my-nav-logo{
+    height: 100px;
+}
+.my-nav-logo .navbar-brand{
+    position: relative;
+    top:27px;
+} 
+.nav-link{
+    font-weight: bolder;
+}
+.nav-item a:hover{
+    color: #24003E !important;
+}
+.header{
+    height: 664px;
+    background-image: url("../images/home-header.png");
+    padding-top: 150px;
+    overflow: hidden;
+}
+.header .row{
+    padding-top: 10px;;
+}
+.header button{
+    border-radius: 30px;
+    padding: 10px;
+}
+
+[class *= "smartphone"] {
+    width: 75%;
+    
+}
+.smartphone1{
+    position: relative;
+    left: 40%;
+}
+.smartphone2{
+    left: 15%;
+    bottom: 580px;
+    position: relative;
+}
+
+ul li{
+    padding: 20px;
+}
+.news_flash{
+    height: 80px;
+    background-color: #ececec;
+}
+.learn{
+    background-image: linear-gradient(to top right, #ff5d5d, #f961af);
+    border: 0.1px solid #fd5d6d;
+    border-radius: 15px;
+    padding: 8px;
+}
+.news{
+    padding: 25px;
+}
+.why_should{
+    padding-top: 4pc;
+    position: relative;
+    overflow: hidden;
+    height: 800px;
+}
+
+.why{
+    font-size: 40px;
+}
+.logo-border{
+    border: 2px solid #FF5858;
+    border-radius: 50px;
+    padding: 5px;
+}
+.humane{
+    top:-350px;
+    left:-4%;
+}
+.safe{
+    top:40px;
+    left:20%;
+}
+.flex{
+    top:-208px;
+    left:50%;
+}
+.fast{
+    top:-603px;
+    left:74%;
+}
+.logo1{
+    position: relative;
+    top:40px;
+    left: -4%;
+}
+.logo2{
+    position: relative;
+    top:-15px;
+    left: -9%;
+}
+.logo3{
+    position: relative;
+    top:-670px;
+    left: 2%;
+}
+.logo4{
+    position: relative;
+    top:38px;
+    left: 27%;
+}
+.logo5{
+    position: relative;
+    top:-18px;
+    left: -5%;
+}
+.iphone{
+    position: relative;
+    top: -600px;
+}
+.fixed-top.scrolled {
+    background-image: linear-gradient(to top right, #ff5d5d, #f961af);
+    transition: background-color 200ms linear;
+  }
+  
+  .fixed-top.scrolled .nav-link {
+    color:#555;
+  }
+  .how_it_works{
+    background-image: url("../images/Background.png");
+    background-size: cover;
+    height: 764px;
+    padding-top: 4pc;
+  }
+  .track{
+    padding-top: 4pc;
+    height: 700px;
+  }
+  .footer {
+	background-image: url("../images/Base.png");
+	height: 550px;
+	/* padding: 84px; */
+	padding-top: 140px;
+    /* padding-bottom: 47px; */
+    overflow: hidden;
+}
+  .iphone1{
+      position: relative;
+      top: 50px;
+      left: 75%;
+      width: 31%;
+  }
+  .iphone2{
+    position: relative;
+    top: 50px;
+    left: 0%;
+    width: 31%;
+  }
+  .iphone3{
+    position: relative;
+    top: -350px;
+    left: 50%;
+    width: 40%;
+  }
+
+  [class *= "step"]{
+      background-color: white;
+      border-radius: 20px;
+      padding: 20px;
+  }
+  .step-1{
+    position: relative;
+    top:135px;
+    left: 0%;
+  }
+  .step-2{
+    position: relative;
+    top:-120px;
+    left: 35%;
+  }
+  .step-3{
+    position: relative;
+    top:-210px;
+    left: 70%;
+  }
+
+  .skill-1{
+    position: relative;
+    top:40px;
+    left: 0%;
+    border-right: 1px solid tomato;
+  }
+  .skill-2{
+    position: relative;
+    top:-122px;
+    left: 25%;
+    border-right: 1px solid tomato;
+  }
+  .skill-3{
+    position: relative;
+    top:-284px;
+    left: 50%;
+    border-right: 1px solid tomato;
+  }
+  .skill-4{
+    position: relative;
+    top:-446px;
+    left: 75%;
+  }
+.ver-phone{
+    position: relative;
+    top: -357px;
+}
+.footer ul li{
+    list-style-type: none;
+    color: rgb(150, 145, 145);
+    padding: 5px;
+}
+.ul-2{
+    position: relative;
+    left: -8%;
+}
+.ul-3{
+    position: relative;
+    left: -18%;
+}
+.ul-4{
+    position: relative;
+    left: -25%;
+}
+.subscribe{
+    position: relative;
+    left: 75%;
+    top: -170px;
+}
+.sub-box{
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px;
+    color: gray;
+}
+.sub-box span{
+    background-image: linear-gradient(to top right, #ff5d5d, #f961af);
+    border-radius: 50px;
+    padding: 5px;
+    margin-left: 50px;
+    color: white;
+}
+.copyright{
+    position: relative;
+    top: -150px;
+    left: 3%;
+}
+.copyright p{
+    position: relative;
+    top: -70px;
+    left: 10%;
+    color: white;
+}
+
+.about-header{
+    height: 664px;
+    background-image: url("../images/about-header.png");
+    padding-top: 150px;
+    overflow: hidden;
+}
+.about-header .row{
+    padding-top: 10px;;
+}
+.about-header button{
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.right-there{
+    background-image: url(../images/Base.png);
+    color: white;
+    height: 680px;
+}
+.right-there .why{
+    position: relative;
+    top: 70px;
+    left: 30%;
+}
+.right-there h6{
+    font-weight: bold;
+    position: relative;
+    top: 100px;
+    left: 20%;;
+}
+.right-there img{
+    position: relative;
+    top: 150px;
+}
+.right-there p{
+    position: relative;
+    top: 100px;
+    left: 20%;;
+}
+/* video{
+    position: relative;
+    top:150px;
+    left: 25%
+} */
+
+.clients{
+    background-color: tomato;
+    height: 850px;
+    padding-top: 100px;
+}
+.client{
+    border: 0.5px solid gray;
+    float: left;
+    margin-top: 90px;
+    margin-right: 30px;
+    border-radius: 50px;
+    padding: 0px 10px 10px 10px;
+    background-color: white;
+    color: rgb(68, 64, 64);
+    position: relative;
+    left:9%;
+}
+.client img{
+    position: relative;
+    top:-30px;
+}
+.pricing{
+    background-color: gray;
+    height: 950px;
+    padding-top: 150px;
+    color: white;
+}
+.price{
+    float: left;
+    border-radius: 10px;
+    background-color: white;
+    color: grey;
+    margin-right: 35px;
+    margin-top: 70px;
+    position: relative;
+    left: 8%;
+    
+}
+.price ul li{
+    list-style-type: none;
+    padding: 10px;
+}
+.price ul{
+    margin-top: 25px;
+}
+.price-border{
+    background-image: linear-gradient(to top right, #ff5d5d, #f961af);
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: -15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+}
+li img{
+    width:9%;
+    margin-right: 10px;
+}
+.cnt{
+    background-image: url("../images/1.5x/Mesa\ de\ trabajo\ 1@1.5x.png");
+    height: 750px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.contact{
+    margin: 50px 300px 300px 300px;
+}
+.message{
+    background-color: white;
+    color: black;
+    height: 400px;
+    padding: 30px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.message div{
+    padding: 5px;
+}
+.inform{
+    background-color: #103F6F;
+    height: 400px;
+    padding: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.iphone-ver{
+    position: relative;
+    top: 20px;
+}
+.burger{
+    display: none;
+    cursor: pointer;
+}
+.burger div{
+    width: 25px;
+    height: 3px;
+    background-color: rgb(226, 226, 226);
+    margin:5px;
+}
+
+.nav-active{
+    transform: translate(0%);
+}
+
+@keyframes navLinkFade{
+    from{
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    .header-text{
+        position: relative;
+        top: -60px;
+        left: 20%;
+    }
+    .header-text button{
+        position: relative;
+        left: -15%;
+    }
+    .header-img{
+        position: relative;
+        top: -50px;
+    }
+    .safe{
+        position: relative;
+        top: 170px;
+        left: -8%;
+    }
+    .flex{
+        position: relative;
+        top: -100px;
+        left: 22%;
+    }
+    .humane{
+        position: relative;
+        top: -235px;
+        left: 50%;
+    }
+    .fast{
+        position: relative;
+        top: -270px;
+        right: -25px; 
+
+    }
+    .why_should{
+        height: 650px;
+    }
+    .why_should p{
+        display: none;
+    }
+    
+    .logo1{
+        width: 30%;
+        position: relative;
+        top: 320px;
+        left: -18%;
+    }
+    .logo2{
+        width: 40%;
+        position: relative;
+        top: 330px;
+        left: -35%;
+    }
+    .logo3{
+        width: 50%;
+        position: relative;
+        top: -950px;
+    }
+    .logo4{
+        width: 40%;
+        position: relative;
+        top: -210px;
+        left: 50%
+    }
+    .logo5{
+        width: 30%;
+        position: relative;
+        top: -350px;
+        left:9%;
+    }
+    .step-1{
+        width: 50%;
+        position: relative;
+        top: 0px;
+    }
+    .step-2{
+        width: 50%;
+        position: relative;
+        top: 5px;
+        left: 0%;
+    }
+    .step-3{
+        width: 50%;
+        position: relative;
+        top: 10px;
+        left:0%;
+    }
+    .how_it_works{
+        height : 900px;
+    }
+    .skill-1{
+        position: relative;
+        left: -50%;
+        border: none;
+    }
+    .skill-2{
+        position: relative;
+        left: -15%;
+        border: none;
+        margin-left : 5px;
+    }
+    .skill-3{
+        position: relative;
+        left: 15%;
+        border: none;
+        margin-left : 25px;
+    }
+    .skill-4{
+        position: relative;
+        left: 50%;
+        margin-left : 30px;
+    }
+    .ver-phone{
+        width: 90%;
+    }
+    .about-cnt{
+        position: relative;
+        top: -750px;
+    }
+    .clients{
+        height: 1400px;
+    }
+    .client{
+        left: 2%;
+    }
+    .iphone-ver{
+        width: 90%;
+    }
+    .pricing{
+        height: 300vh;
+    }
+    .message{
+        position: relative;
+        left: -60%;
+        height: 550px;
+        overflow: hidden;
+    }
+    .inform{
+        position: relative;
+        left: 40%;
+        top: -550px;
+        height: 550px;
+        overflow: scroll;
+    }
+    .cnt{
+        height: 900px;
+        background-size: cover;
+        
+    }
+    textarea{
+        max-width: 100%;
+    }
+    .ul-1{
+        position: relative;
+        top: 0px;
+        left: -11%;
+    }
+    .ul-2{
+        position: relative;
+        top: -28vh;
+        left: 16%;
+    }
+    .ul-3{
+        position: relative;
+        top: -56vh;
+        left: 38%;
+    }
+    .ul-4{
+        position: relative;
+        top: -84vh;
+        left: 70%;
+    }
+    .subscribe{
+        position: relative;
+        top: -75vh;
+        left: 50%;
+    }
+    .copyright{
+        position: relative;
+        top: -95vh;
+        left: -5%;
+    }
+    .copyright p{
+        margin-left: 20px;
+    }
+    .right-there{
+        height: 1000px;
+    }
+
+    body{
+        overflow-x: hidden;
+    }
+    .nav-links{
+        position: absolute;
+        right: 0px;
+        height: 92vh;
+        top: 8vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translate(100%);
+        transition: transform 0.5s ease-in;
+    }
+    .nav-links li{
+        opacity: 0;
+    }
+    .burger{
+        display: block;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .header-text{
+        position: relative;
+        left: -5%;
+    }
+    .smartphone1{
+        width: 40%;
+        position: relative;
+        top: -400px;
+        left: 75%;
+    }
+    .smartphone2{
+        width: 40%;
+        position: relative;
+        top: -400px;
+        left: 20%;
+    }
+    .why_should{
+        height: 930px;
+    }
+    .iphone{
+        position: relative;
+        left:-15%;
+        top: -700px
+    }
+    .logo5{
+        position: relative;
+        top: -670px;
+        left: 70%;
+    }
+    .flex{
+        position: relative;
+        top: -257px;
+    }
+    .humane{
+        position: relative;
+        top: -460px;
+        left:-10%;
+    }
+    .fast{
+        position: relative;
+        top: -755px;
+        left: 80%;
+    }
+    .step-1{
+        top:10px;
+    }
+    .step-2{
+        top:20px;
+        left: 0%;
+    }
+    .step-3{
+        top:30px;
+        left: 0%;
+    }
+    .how_it_works{
+        padding-bottom: 750px;
+    }
+
+    .skill-1{
+        position: relative;
+        left: -50%;
+    }
+    .skill-2{
+        position: relative;
+        left: -15%;
+    }
+    .skill-3{
+        position: relative;
+        left: 15%;
+    }
+    .skill-4{
+        position: relative;
+        left: 50%;
+    }
+
+    .ver-phone{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .about-cnt{
+        position: relative;
+        top: -340px;
+        left: -8%;
+    }
+    .iphone1{
+        position: relative;
+        left: 55%;
+        width: 20%;
+    }
+    .iphone2{
+        position: relative;
+        left: 63%;
+        width: 20%;
+    }
+    .iphone3{
+        position: relative;
+        left: 25%;
+        width: 25%;
+        top: 50px;
+    }
+    .clients{
+        height: 1400px;
+    }
+    .client{
+        left: 2%;
+    }
+    .iphone-ver{
+        width: 90%;
+        margin-top: 70px;
+    }
+
+    .pricing{
+        height: 350vh;
+    }
+    .message{
+        position: relative;
+        left: -60%;
+        height: 500px;
+    }
+    .inform{
+        position: relative;
+        left: 40%;
+        top: -500px;
+        height: 500px;
+    }
+    .cnt{
+        height: 850px;
+        background-size: cover;
+    }
+    textarea{
+        max-width: 100%;
+    }
+    .ul-1{
+        position: relative;
+        top: 0px;
+        left: -11%;
+    }
+    .ul-2{
+        position: relative;
+        top: -28vh;
+        left: 16%;
+    }
+    .ul-3{
+        position: relative;
+        top: -56vh;
+        left: 38%;
+    }
+    .ul-4{
+        position: relative;
+        top: -84vh;
+        left: 70%;
+    }
+    .subscribe{
+        position: relative;
+        top: -75vh;
+        left: 50%;
+    }
+    .copyright{
+        position: relative;
+        top: -95vh;
+        left: -5%;
+    }
+    .copyright p{
+        margin-left: 20px;
+    }
+    .right-there{
+        height: 1000px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .nav-links{
+        position: absolute;
+        right: 0px;
+        height: 92vh;
+        top: 8vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translate(100%);
+        transition: transform 0.5s ease-in;
+    }
+    .nav-links li{
+        opacity: 0;
+    }
+    .burger{
+        display: block;
+    }
+}
+@media only screen and (min-width: 991px) and (max-width: 1199px){
+    .smartphone1{
+        width: 75%;
+        position: relative;
+        top: -10px;
+        right: 55%;
+    }
+    .smartphone2{
+        width: 75%;
+        position: relative;
+        top: -470px;
+        right: 25%;
+    }
+    .ver-phone{
+        width: 75%;
+        margin-top: 50px;
+    }
+    .iphone3{
+        top: -275px;
+    }
+    .iphone-ver{
+        width: 75%;
+    }
+    .pricing{
+        height: 990px;
+    }
+    
+}
